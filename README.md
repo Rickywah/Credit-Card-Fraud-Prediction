@@ -6,7 +6,7 @@ This project focuses on developing a machine learning model to detect fraudulent
 
 ## Dataset
 
-- **Source**: The dataset contains 555,719 instances and 22 attributes. It is composed of both categorical and numerical data types, with no missing values.
+- **Source**: The dataset can be found on Kaggle: [Credit Card Fraud Prediction Dataset](https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction/data)
 - **Attributes**:
   - `cc_num`: Unique customer identification number.
   - `category`: Transaction type (e.g., personal, childcare).
